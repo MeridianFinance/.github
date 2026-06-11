@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MeridianFinance/meridian-ecosystem/main/assets/banner.png" alt="Meridian Ecosystem" width="100%" />
+<img src="assets/hero.png" alt="Meridian Finance Group" width="100%" />
 
 <br/><br/>
 
