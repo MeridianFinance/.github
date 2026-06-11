@@ -20,6 +20,6 @@ The public index of everything we build: the products, the live contracts with a
 
 *The product code is private while we are pre-audit and pre-mainnet. Read-only access for reviewers on request.*
 
-*Real Yield. Real Simple.*
+*Real Yield. Real Infrastructure. Real Simple.*
 
 </div>
